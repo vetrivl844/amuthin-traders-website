@@ -1,0 +1,6 @@
+{
+  "name": "Amuthin Traders - Traditional Healthy Foods",
+  "description": "Amuthin Traders: Traditional Tamil millets, grains, and healthy foods with modern convenience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
